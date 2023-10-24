@@ -18,5 +18,6 @@ const sumar = (n1, n2) => n1+n2;
 
 const resultado1  = operacionMate(sumar,45,50);
 
+
 console.log(resultado1);
 
